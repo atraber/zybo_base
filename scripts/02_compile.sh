@@ -24,5 +24,4 @@ make ARCH=arm CROSS_COMPILE=arm-xilinx-linux-gnueabi-
 
 make ARCH=arm CROSS_COMPILE=arm-xilinx-linux-gnueabi- UIMAGE_LOADADDR=0x8000 uImage
 
-
 cd ..
