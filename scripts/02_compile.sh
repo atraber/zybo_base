@@ -5,7 +5,7 @@
 ################################################################################
 
 cd ./u-boot-Digilent-Dev
-make ARCH=arm CROSS_COMPILE=arm-xilinx-linux-gnueabi- xilinx_ZYBO_defconfig
+make ARCH=arm CROSS_COMPILE=arm-xilinx-linux-gnueabi- zynq_ZYBO_config
 make ARCH=arm CROSS_COMPILE=arm-xilinx-linux-gnueabi-
 
 # add mkimage to path
