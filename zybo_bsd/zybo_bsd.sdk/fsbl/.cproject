@@ -30,7 +30,7 @@
 								</option>
 								<option id="xilinx.gnu.compiler.inferred.swplatform.flags.139171999" superClass="xilinx.gnu.compiler.inferred.swplatform.flags" value="  " valueType="string"/>
 								<option id="xilinx.gnu.compiler.dircategory.includes.1375545319" superClass="xilinx.gnu.compiler.dircategory.includes" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/system_wrapper_hw_platform_2}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/system_wrapper_hw_platform_0}&quot;"/>
 								</option>
 								<inputType id="xilinx.gnu.arm.c.compiler.input.909510170" name="C source files" superClass="xilinx.gnu.arm.c.compiler.input"/>
 							</tool>
@@ -112,7 +112,7 @@
 								</option>
 								<option id="xilinx.gnu.compiler.inferred.swplatform.flags.529843596" superClass="xilinx.gnu.compiler.inferred.swplatform.flags" value="  " valueType="string"/>
 								<option id="xilinx.gnu.compiler.dircategory.includes.834412541" superClass="xilinx.gnu.compiler.dircategory.includes" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/system_wrapper_hw_platform_2}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/system_wrapper_hw_platform_0}&quot;"/>
 								</option>
 								<inputType id="xilinx.gnu.arm.c.compiler.input.2006436371" name="C source files" superClass="xilinx.gnu.arm.c.compiler.input"/>
 							</tool>
