@@ -2,7 +2,7 @@ connect arm hw
 
 rst
 
-fpga -f zybo_base.bit
+fpga -f system_wrapper.bit
 
 source ./ps7_init.tcl
 ps7_init

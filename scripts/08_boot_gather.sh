@@ -11,11 +11,11 @@ cp ./u-boot-Digilent-Dev/u-boot ./boot/
 cp ./zybo_bsd/zybo_bsd.sdk/fsbl/Debug/fsbl.elf ./boot/
 
 # get ps7_init.tcl
-cp ./zybo_bsd/zybo_bsd.sdk/system_wrapper_hw_platform_2/ps7_init.tcl ./boot/
+cp ./zybo_bsd/zybo_bsd.sdk/system_wrapper_hw_platform_0/ps7_init.tcl ./boot/
 
 # get linux kernel image
 cp ./Linux-Digilent-Dev/arch/arm/boot/uImage ./boot/
 
 # get fpga bitstream
-cp ./zybo_bsd/zybo_bsd.sdk/system_wrapper_hw_platform_2/system_wrapper.bit ./boot/
+cp ./zybo_bsd/zybo_bsd.sdk/system_wrapper_hw_platform_0/system_wrapper.bit ./boot/
 
